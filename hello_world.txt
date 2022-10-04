@@ -1,0 +1,3 @@
+Welcome to a new adventure
+hello Odin
+learning Node Js
